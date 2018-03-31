@@ -1,2 +1,0 @@
-# Minigolfito
-TP Minigolfito (funcional)
